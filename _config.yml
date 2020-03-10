@@ -1,8 +1,9 @@
 # User Settings | Edit there as per required
 
 title:CTF
-url: "http://dylanordaz.github.io"
 baseurl: "ctf"
+url: ""
+
 
 # This will show up at the top of index page
 site_heading: >
