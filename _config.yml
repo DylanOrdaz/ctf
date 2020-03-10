@@ -2,7 +2,7 @@
 
 title:CTF
 url: "http://dylanordaz.github.io"
-baseurl: ""
+baseurl: "/ctf"
 
 # This will show up at the top of index page
 site_heading: >
