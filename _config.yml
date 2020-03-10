@@ -25,7 +25,7 @@ intro: false         # Tip: Remove the span from site_heading if intro is set to
 short_bio: >
     Hi!
 
-permalink: /:title.html
+permalink: /:title
 
 # Comments are powered by disqus
 comments: true
