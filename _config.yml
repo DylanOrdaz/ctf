@@ -1,20 +1,20 @@
 # User Settings | Edit there as per required
 
-title:CTF
-url: "http://DylanOrdaz.github.io"
-baseurl: "d3fault"
+title: CTF
+url: ""
+baseurl: ""
 
 
 # This will show up at the top of index page
 site_heading: >
-    Hi
+    Dailan
 
-email: your@email.com
-author: yourname
+#email: 
+author: d3fault
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    accent is, as Trump would put it, the best
+    Site for ctf writeups
 
 # This will what will show against &copy; in the footer
 copyright: accent
@@ -23,7 +23,7 @@ copyright: accent
 intro: false         # Tip: Remove the span from site_heading if intro is set to true
 # This will be displayed in your intro
 short_bio: >
-    Hi!
+    Site for ctf's writeups
 
 permalink: /:title
 
