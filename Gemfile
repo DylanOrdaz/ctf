@@ -6,6 +6,7 @@ group :jekyll_plugins do
 gem 'jekyll-feed'
 gem 'jekyll-seo-tag'
 gem 'jekyll-paginate'
+gem 'jekyll-target-blank'
 #git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 end
 # gem "rails"

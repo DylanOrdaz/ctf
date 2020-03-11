@@ -67,10 +67,15 @@ markdown: kramdown
 
 plugins:
     - jekyll-paginate
+    - jekyll-target-blank
 
 sass:
     style: compressed
     sass_dir: _sass
+
+collections:
+    ctfs:
+        output: "true"
 
 # Scopes
 defaults:
@@ -88,3 +93,5 @@ defaults:
             layout: "post"
 
 exclude: [vendor] # For travis ci
+
+gems: [jekyll-paginate]
